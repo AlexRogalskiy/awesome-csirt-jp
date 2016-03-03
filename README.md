@@ -4,7 +4,6 @@
 
 A curated list of tools and resources for CSIRT in Japan.
 
-
 ## マテリアル・ドキュメント
 
 - JPCERT/CC「[CSIRTマテリアル](https://www.jpcert.or.jp/csirt_material/)」 - 構想/構築/運用のフェーズごとの資料集
@@ -14,12 +13,38 @@ A curated list of tools and resources for CSIRT in Japan.
 
 ## ガイドライン
 
-- デジタル・フォレンジック研究会「[証拠保全ガイドライン第４版](https://digitalforensic.jp/2015/03/06/guidelines-4/)」
-- 情報処理推進機構「[安全なウェブサイトの作り方](https://www.ipa.go.jp/security/vuln/websecurity.html)」
+- 情報処理推進機構「[安全なウェブサイトの作り方](https://www.ipa.go.jp/security/vuln/websecurity.html)」 -
 - 情報処理推進機構「[組織における内部不正防止ガイドライン](https://www.ipa.go.jp/security/fy24/reports/insider/)」
 - 情報処理推進機構「[『高度標的型攻撃』対策に向けたシステム設計ガイド](https://www.ipa.go.jp/security/vuln/newattack.html)」
 - OWASP Japan「[Webシステム／Webアプリケーションセキュリティ要件書](https://github.com/ueno1000/secreq)」
 - データベース・セキュリティ・コンソーシアム「[DB内部不正対策ガイドライン](http://www.db-security.org/wg/antifraud.html)」
+- デジタル・フォレンジック研究会「[証拠保全ガイドライン](https://digitalforensic.jp/2015/03/06/guidelines-4/)」
+
+## ツール
+
+- URLチェッカー
+  - [aguse](https://www.aguse.jp/)
+  - [URLVoid](http://www.urlvoid.com/)
+- ブラックリスト
+  - [DShield.org Suspicious Domain List](http://www.dshield.org/suspicious_domains.html)
+  - [StopForumSpam](http://www.stopforumspam.com/)
+  - [Emerging Threats.net Open rulesets](https://rules.emergingthreats.net/)
+- マルウェア解析
+  - [OllyDbg](http://www.ollydbg.de/) - デバッガー
+- マルウェアDB
+  - [VirusTotal](https://www.virustotal.com/ja/)
+  - [#totalhash](https://totalhash.cymru.com/)
+  - [Open Malware](http://openmalware.org/)
+- APT
+  - [APT Notes](https://aptnotes.malwareconfig.com/) - APT関連レポートのまとめ
+- フォレンジック
+  - [Autopsy/The Sleuth Kit](http://www.sleuthkit.org/)
+- 脅威情報共有
+  - [MISP](https://github.com/MISP/MISP) - Malware Information Sharing Platform & Threat Sharing
+- インシデント管理
+  - [FIR (Fast Incident Response)](https://github.com/certsocietegenerale/FIR) - CERT Societe Generaleが開発したインシデント管理システム
+  - [RTIR](https://www.bestpractical.com/rtir/)
+
 
 ## Other awesome lists
 
