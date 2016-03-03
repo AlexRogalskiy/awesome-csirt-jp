@@ -7,9 +7,9 @@ A curated list of tools and resources for CSIRT in Japan.
 
 ## マテリアル・ドキュメント
 
-- JPCERT/CC「[CSIRTマテリアル](https://www.jpcert.or.jp/csirt_material/)」
-- 日本シーサート協議会「[CSIRTスタータキット](http://www.nca.gr.jp/imgs/CSIRTstarterkit.pdf)」
-- 日本シーサート協議会「[CSIRT 構築に役立つ参考ドキュメント類](http://www.nca.gr.jp/activity/build-wg-document.html)」
+- JPCERT/CC「[CSIRTマテリアル](https://www.jpcert.or.jp/csirt_material/)」 - 構想/構築/運用のフェーズごとの資料集
+- 日本シーサート協議会「[CSIRTスタータキット](http://www.nca.gr.jp/imgs/CSIRTstarterkit.pdf)」 - CSIRT構築時の課題等についてまとめた資料
+- 日本シーサート協議会「[CSIRT 構築に役立つ参考ドキュメント類](http://www.nca.gr.jp/activity/build-wg-document.html)」 - CSIRT構築に役立つリンク集
 
 
 ## ガイドライン
